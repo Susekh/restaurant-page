@@ -17,14 +17,14 @@ body, html{
 .img-txt-cnt{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .Home-Style {
     color: black;
     width: 44em;
     font-size: small;
-    padding-left: 10px;
+    padding-left: 4.4em;
 }
 
 .home-img-div{
